@@ -1,8 +1,8 @@
 # DigitalCommunication-Quantization
 
 This assignment is to apply:
-- uniform quantization (mid-rise, mid-tread)
-- dequantization 
+- uniform quantization (mid-rise, mid-tread).
+- dequantization.
 - non-uniform quantization uning 𝝁 law.
 
 ## Results:
